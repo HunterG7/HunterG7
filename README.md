@@ -1,4 +1,4 @@
-### Hi there 👋
+### HunterG7's Github!
 
 <!--
 **HunterG7/HunterG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
